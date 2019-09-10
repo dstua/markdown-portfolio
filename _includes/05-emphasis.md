@@ -1,1 +1,2 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+**I know every 1.8 crafting recipe in minecraft by heart**
+_Certified actor: Starred in "Gangsters And Zombies (2019)"_ 
