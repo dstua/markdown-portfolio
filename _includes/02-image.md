@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Picture Of A Fish Eating Cereal](https://i.ytimg.com/vi/7hZrl57_C9Q/maxresdefault.jpg)
